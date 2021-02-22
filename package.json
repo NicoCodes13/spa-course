@@ -1,0 +1,10 @@
+{
+  "name": "cientifico-platzi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nico Castañeda <nickcar13@gmail.com>",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT"
+}
