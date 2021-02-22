@@ -6,6 +6,10 @@
   "keywords": [
     "javascript"
   ],
+  "scripts": {
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --open -mode development"
+  },
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.12.17",
